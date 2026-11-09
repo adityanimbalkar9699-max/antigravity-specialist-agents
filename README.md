@@ -11,12 +11,17 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (21 World-Class Specialists)
+## The Specialist Fleet (22 World-Class Specialists)
 
-### 💡 World-Class Creativity & Lateral Innovation
+### 🔬 Empirical Research, Proof & Zero Hallucination
 | Agent | Focus Area | Key Superpowers |
 | :--- | :--- | :--- |
-| [**`world-class-creativity-director`**](./agents/world-class-creativity-director.md) | **Breakthrough Innovation & Wow Factor** | Liberates projects from predictable mediocrity. Injects signature 'Wow Factor' features, unexpected interactive delight, creative Feynman analogies, narrative arcs, and lateral problem-solving across every project, website, and competition. |
+| [**`empirical-research-verifier`**](./agents/empirical-research-verifier.md) | **100% Proven Research & Zero Hallucination** | Strictly eliminates hallucinations, invented citations, dead URLs, and fake statistics. Backs every scientific, academic, and algorithmic claim with primary peer-reviewed sources, DOIs, mathematical derivations, and live reproducible proof. |
+
+### 💡 World-Class Creativity & Radical Uniqueness
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`world-class-creativity-director`**](./agents/world-class-creativity-director.md) | **Breakthrough Innovation & Trademark Defensibility** | Liberates projects from predictable mediocrity. Bans generic AI naming tropes; enforces radical uniqueness, trademark-defensible brand identity, non-derivative logo geometries, signature 'Wow Factor' features, Feynman analogies, and lateral thinking. |
 
 ### 🎓 Academic Forensics, Pareto 80/20 & Context Discovery
 | Agent | Focus Area | Key Superpowers |
@@ -83,7 +88,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
-- *"Inject world-class creativity into this project: add signature wow-factor features and innovative UX."*
+- *"Conduct empirical research on this topic: verify 100% of facts with primary sources, DOIs, and zero hallucination."*
+- *"Generate a radically unique, trademark-defensible brand name and logo concept with deep historical/philosophical roots."*
 - *"I have an exam coming up: ask me my university, branch, and semester, then reverse-engineer the last 5 years of papers with the 80/20 rule."*
 - *"Build this AI mini-project: test it 100%, push it to a new GitHub repo with its PDFs, and clean up my local folder to save space."*
-- *"Enhance this exam paper/website: preserve 100% of the questions/data, and proactively elevate it with top-notch features."*

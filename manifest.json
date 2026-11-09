@@ -1,15 +1,22 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.9.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including world-class creative innovation & lateral thinking, proactive context discovery interview, Pareto 80/20 syllabus & 5-year exam paper reverse-engineering, zero-disk project shipping & GitHub vault archiving, autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.10.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including empirical research & zero-hallucination proofs, radical uniqueness & trademark-defensible creative innovation, proactive context discovery interview, Pareto 80/20 syllabus & 5-year exam paper reverse-engineering, zero-disk project shipping & GitHub vault archiving, autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "empirical-research-verifier",
+      "name": "Empirical Research & Zero-Hallucination Verifier",
+      "path": "agents/empirical-research-verifier.md",
+      "domain": "Forensic Empirical Research, Zero-Hallucination Proofs, Primary Source Citation, Mathematical/Algorithmic Derivations, Epistemic Honesty",
+      "triggers": ["research", "proof", "verify research", "citation", "paper", "empirical", "zero hallucination", "factual proof", "doi"]
+    },
     {
       "id": "world-class-creativity-director",
       "name": "World-Class Creative Innovator",
       "path": "agents/world-class-creativity-director.md",
-      "domain": "Breakthrough Conceptual Innovation, Signature 'Wow Factor' Features, Lateral Problem Solving, Kinetic Micro-Delight, Compelling Storytelling",
-      "triggers": ["creative", "creativity", "innovate", "wow factor", "unique", "unconventional", "novel", "differentiation", "delight"]
+      "domain": "Breakthrough Conceptual Innovation, Radical Uniqueness, Trademark-Defensible IP, Signature 'Wow Factor' Features, Lateral Problem Solving, Kinetic Micro-Delight",
+      "triggers": ["creative", "creativity", "innovate", "wow factor", "unique", "unconventional", "novel", "differentiation", "delight", "trademark", "name", "logo"]
     },
     {
       "id": "pareto-exam-and-project-strategist",
