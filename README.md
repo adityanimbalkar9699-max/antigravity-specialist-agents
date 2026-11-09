@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (14 World-Class Specialists)
+## The Specialist Fleet (15 World-Class Specialists)
+
+### 🎨 Anti-AI Luxury Creative Direction & Presentation
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`premium-creative-director`**](./agents/premium-creative-director.md) | **Anti-AI Luxury Aesthetic & Editorial Design** | Eradicates generic "AI-generated" tropes (cliché purple gradients, sterile centered cards). Enforces bespoke human-crafted elegance, editorial typography, optical tracking, tactile specular materials, and publication-grade PDF/print polish. |
 
 ### 🧩 Multi-Agent Decomposition & Orchestration
 | Agent | Focus Area | Key Superpowers |
@@ -48,6 +53,6 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
 - *"Decompose this large application into multi-agent execution waves to build the full system."*
-- *"Compress this code/prompt using the Token Compression Engineer to save tokens while keeping exact output fidelity."*
 - *"Call the AI Code Doctor from my GitHub repo to audit our codebase for memory leaks and circular dependencies."*

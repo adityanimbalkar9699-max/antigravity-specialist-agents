@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.2.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.3.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "premium-creative-director",
+      "name": "Premium Creative Director",
+      "path": "agents/premium-creative-director.md",
+      "domain": "Anti-AI Luxury Aesthetic, Editorial PDFs, Bespoke Typography, High-End Polish",
+      "triggers": ["pdf", "aesthetic", "luxury", "anti-ai", "creative director", "design polish", "presentation"]
+    },
     {
       "id": "multi-agent-task-decomposer",
       "name": "Multi-Agent Task Decomposer",
