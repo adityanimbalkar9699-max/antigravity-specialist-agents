@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (15 World-Class Specialists)
+## The Specialist Fleet (16 World-Class Specialists)
+
+### ⚡ Hyper-Velocity & Parallel Swarms (Speed + Quality)
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`hyper-velocity-swarm-orchestrator`**](./agents/hyper-velocity-swarm-orchestrator.md) | **Parallel Swarms & 3x-10x Speedup** | Runs specialized subagents concurrently side-by-side in background. Employs flash/pro model tiering, pre-ingestion AST token compression, and non-blocking barrier synchronization to deliver world-class results at extreme velocity. |
 
 ### 🎨 Anti-AI Luxury Creative Direction & Presentation
 | Agent | Focus Area | Key Superpowers |
@@ -53,6 +58,6 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Execute this build using parallel swarms to deliver the feature at maximum velocity."*
 - *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
 - *"Decompose this large application into multi-agent execution waves to build the full system."*
-- *"Call the AI Code Doctor from my GitHub repo to audit our codebase for memory leaks and circular dependencies."*
