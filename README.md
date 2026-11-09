@@ -1,7 +1,7 @@
 # Antigravity Specialist Agents Cloud Catalog
 
 > **World-Class Domain Specialist Agents for Antigravity & Large-Scale Projects (e.g. Forge AI)**  
-> Hosted remotely on GitHub to deliver zero-storage, on-demand execution.
+> Hosted remotely on GitHub to deliver zero-storage, on-demand execution. Synthesizing premier frontier AI architectures: Claude Mythos, GPT-6 Astra, Gemini 4 Carbon, DeepSeek V4.1, Grok 4.7, and Reflection Beam.
 
 ---
 
@@ -15,6 +15,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 | Agent | Focus Area | Key Superpowers |
 | :--- | :--- | :--- |
+| [**`omni-frontier-synthesizer`**](./agents/omni-frontier-synthesizer.md) | Universal Frontier AI Synthesis | Fuses Claude Mythos, GPT-6 Astra, Gemini 4, DeepSeek V4.1, Grok 4.7, and Reflection Beam with zero-hallucination guarantees. |
 | [**`apple-design-director`**](./agents/apple-design-director.md) | UI, Typography & Visual Polish | Apple-grade aesthetics, optical typography, 4px/8px spatial cadence, token architecture, WCAG AAA accessibility. |
 | [**`motion-animation-engineer`**](./agents/motion-animation-engineer.md) | Motion, Transitions & Physics | 60/120fps spring physics, Framer Motion, GSAP, scroll-driven narratives, micro-interaction choreography. |
 | [**`frontier-database-architect`**](./agents/frontier-database-architect.md) | Persistence & Data Modeling | Postgres, Supabase, Redis. 3NF schemas, GIN/B-tree indexing, query optimization, zero-N+1, safe migrations. |
@@ -27,6 +28,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Call the Omni-Frontier Synthesizer to architect our new multi-agent pipeline with zero hallucination."*
 - *"Call the Apple Design Director from my GitHub repo to redesign our landing page hero."*
 - *"Call the Database Architect from my GitHub repo to optimize our Postgres schema for Forge AI."*
 - *"Dispatch the Motion Engineer from my repo to add 60fps spring transitions to our modal dialogs."*

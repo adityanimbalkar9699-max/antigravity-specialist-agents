@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "1.0.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity.",
+  "version": "2.0.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, synthesizing premier frontier AI models.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "omni-frontier-synthesizer",
+      "name": "Omni-Frontier AI Synthesizer",
+      "path": "agents/omni-frontier-synthesizer.md",
+      "domain": "Frontier AI Synthesis, Deep Reasoning, Zero-Hallucination, Multi-Model Fusion",
+      "triggers": ["frontier", "omni", "deep reasoning", "gpt-6", "claude mythos", "gemini 4"]
+    },
     {
       "id": "apple-design-director",
       "name": "Apple Design Director",
