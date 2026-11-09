@@ -1,0 +1,50 @@
+{
+  "name": "antigravity-specialist-agents",
+  "version": "1.0.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity.",
+  "owner": "adityanimbalkar9699-max",
+  "agents": [
+    {
+      "id": "apple-design-director",
+      "name": "Apple Design Director",
+      "path": "agents/apple-design-director.md",
+      "domain": "UI, Typography, Aesthetics, Luxury Polish",
+      "triggers": ["redesign", "typography", "apple style", "ui polish", "design tokens"]
+    },
+    {
+      "id": "motion-animation-engineer",
+      "name": "Motion & Animation Engineer",
+      "path": "agents/motion-animation-engineer.md",
+      "domain": "Micro-interactions, Spring Physics, Scroll Transitions",
+      "triggers": ["animation", "motion", "spring transition", "framer motion", "smooth scroll"]
+    },
+    {
+      "id": "frontier-database-architect",
+      "name": "Frontier Database Architect",
+      "path": "agents/frontier-database-architect.md",
+      "domain": "Postgres, Supabase, Schemas, Indexing, Query Optimization",
+      "triggers": ["database", "schema", "postgres", "supabase", "sql query", "migration"]
+    },
+    {
+      "id": "distributed-backend-engineer",
+      "name": "Distributed Backend Engineer",
+      "path": "agents/distributed-backend-engineer.md",
+      "domain": "APIs, Edge Runtimes, Concurrency, Streaming, Resilience",
+      "triggers": ["backend", "api design", "streaming", "microservice", "rate limit", "auth"]
+    },
+    {
+      "id": "content-presentation-strategist",
+      "name": "Content & Presentation Strategist",
+      "path": "agents/content-presentation-strategist.md",
+      "domain": "Product Messaging, Microcopy, Executive Pitch, UX Writing",
+      "triggers": ["copywriting", "presentation", "microcopy", "pitch", "documentation"]
+    },
+    {
+      "id": "forge-ai-lead-architect",
+      "name": "Forge AI Lead Architect",
+      "path": "agents/forge-ai-lead-architect.md",
+      "domain": "Large-Scale Marathon Project Leadership, Tech Debt Elimination",
+      "triggers": ["forge ai", "large project", "system architecture", "velocity", "refactor"]
+    }
+  ]
+}
