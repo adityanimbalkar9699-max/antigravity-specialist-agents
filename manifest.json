@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.6.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.7.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including zero-disk project shipping & GitHub vault archiving, autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "zero-disk-project-shipper",
+      "name": "Zero-Disk Project Shipper & Cloud Vault Manager",
+      "path": "agents/zero-disk-project-shipper.md",
+      "domain": "Local 100% Verification, Automated GitHub Cloud Repo Creation & Push, PDF Archiving, Safe Local Disk Space Reclamation (0 MB Footprint)",
+      "triggers": ["post to github", "upload to github", "delete local", "save space", "zero disk", "cloud vault", "backup project", "clean laptop space", "deploy and purge"]
+    },
     {
       "id": "self-recognition-watchdog",
       "name": "Self-Recognition & Metacognitive Watchdog",

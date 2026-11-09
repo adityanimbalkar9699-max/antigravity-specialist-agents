@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (18 World-Class Specialists)
+## The Specialist Fleet (19 World-Class Specialists)
+
+### ☁️ Zero-Disk Cloud Shipping & Space Reclamation
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`zero-disk-project-shipper`**](./agents/zero-disk-project-shipper.md) | **Cloud Vault & Laptop Disk Reclamation** | Builds and verifies projects locally with 100% test passage, bundles all source code, docs, and publication PDFs, pushes to a dedicated GitHub repo, verifies remote integrity, and safely purges local project files to reclaim 100% laptop disk space (0 MB local footprint). |
 
 ### 💎 Data Fidelity & Proactive Value-Add Elevation
 | Agent | Focus Area | Key Superpowers |
@@ -68,6 +73,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Build this AI project: test it 100%, push it to a new GitHub repo with its PDFs, and clean up my local folder to save space."*
 - *"Enhance this exam paper/website: preserve 100% of the questions/data, and proactively elevate it with top-notch features."*
 - *"Execute this build using parallel swarms to deliver the feature at maximum velocity."*
 - *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
