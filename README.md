@@ -11,7 +11,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (17 World-Class Specialists)
+## The Specialist Fleet (18 World-Class Specialists)
 
 ### 💎 Data Fidelity & Proactive Value-Add Elevation
 | Agent | Focus Area | Key Superpowers |
@@ -22,6 +22,11 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 | Agent | Focus Area | Key Superpowers |
 | :--- | :--- | :--- |
 | [**`hyper-velocity-swarm-orchestrator`**](./agents/hyper-velocity-swarm-orchestrator.md) | **Parallel Swarms & 3x-10x Speedup** | Runs specialized subagents concurrently side-by-side in background. Employs flash/pro model tiering, pre-ingestion AST token compression, and non-blocking barrier synchronization to deliver world-class results at extreme velocity. |
+
+### 🧠 Self-Recognition & Autonomous Metacognition (Watchdog & Anti-Stall)
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`self-recognition-watchdog`**](./agents/self-recognition-watchdog.md) | **Metacognitive Watchdog & Anti-Stall Pivot** | Autonomously detects when operations hang, stall, or exceed expected step/time bounds. Aborts dead ends immediately, diagnoses the root block, and autonomously pivots to an orthogonal working solution without looping or burning context. |
 
 ### 🎨 Anti-AI Luxury Creative Direction & Presentation
 | Agent | Focus Area | Key Superpowers |
@@ -66,3 +71,4 @@ In Antigravity, simply prompt:
 - *"Enhance this exam paper/website: preserve 100% of the questions/data, and proactively elevate it with top-notch features."*
 - *"Execute this build using parallel swarms to deliver the feature at maximum velocity."*
 - *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
+- *"Diagnose and repair this stuck pipeline using the self-recognition watchdog."*

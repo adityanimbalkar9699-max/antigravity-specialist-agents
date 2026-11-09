@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.5.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.6.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "self-recognition-watchdog",
+      "name": "Self-Recognition & Metacognitive Watchdog",
+      "path": "agents/self-recognition-watchdog.md",
+      "domain": "Metacognitive Self-Monitoring, Hang Detection, Loop Abort, Autonomous Strategic Pivots",
+      "triggers": ["stuck", "hang", "too long", "watchdog", "self recognition", "loop abort", "pivot"]
+    },
     {
       "id": "value-enhancement-director",
       "name": "Value Enhancement & Data Fidelity Director",
