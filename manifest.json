@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.4.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including hyper-velocity parallel swarm orchestration, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.5.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "value-enhancement-director",
+      "name": "Value Enhancement & Data Fidelity Director",
+      "path": "agents/value-enhancement-director.md",
+      "domain": "Zero-Data-Drift Fidelity, Proactive Feature Elevation, Exam/Doc Enrichment",
+      "triggers": ["enhance", "fidelity", "exam", "preserve data", "elevate", "enrich", "value add"]
+    },
     {
       "id": "hyper-velocity-swarm-orchestrator",
       "name": "Hyper-Velocity Swarm Orchestrator",

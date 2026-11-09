@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (16 World-Class Specialists)
+## The Specialist Fleet (17 World-Class Specialists)
+
+### 💎 Data Fidelity & Proactive Value-Add Elevation
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`value-enhancement-director`**](./agents/value-enhancement-director.md) | **Zero-Data-Drift & Proactive Elevation** | Strictly preserves 100% of source facts, exam questions, and data with mathematical zero-drift precision — while proactively elevating deliverables to their absolute peak with step-by-step solutions, Apple-grade visuals, and unrequested high-impact features. |
 
 ### ⚡ Hyper-Velocity & Parallel Swarms (Speed + Quality)
 | Agent | Focus Area | Key Superpowers |
@@ -58,6 +63,6 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Enhance this exam paper/website: preserve 100% of the questions/data, and proactively elevate it with top-notch features."*
 - *"Execute this build using parallel swarms to deliver the feature at maximum velocity."*
 - *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
-- *"Decompose this large application into multi-agent execution waves to build the full system."*
