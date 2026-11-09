@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.0.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, supporting massive scale (50K - 1M+ LOC) projects, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.1.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "token-compression-engineer",
+      "name": "Token Compression Engineer",
+      "path": "agents/token-compression-engineer.md",
+      "domain": "Token Savings (40%-75%), Semantic Compaction, AST Skeletonization, JSON Tabulation",
+      "triggers": ["compress token", "token saving", "token compression", "reduce tokens", "context optimization"]
+    },
     {
       "id": "ai-code-doctor",
       "name": "AI Code Doctor",

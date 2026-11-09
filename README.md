@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (12 World-Class Specialists)
+## The Specialist Fleet (13 World-Class Specialists)
+
+### ⚡ Context, Compression & Token Optimization
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`token-compression-engineer`**](./agents/token-compression-engineer.md) | **Token Optimization (40%-75% Savings)** | Lossless semantic prompt compaction, AST code skeletonization, JSON tabular key packing, and log denoising to save context budget while ensuring 100% exact output fidelity. |
 
 ### 🏥 Code Health, Safety & Ultra-Scale (50K to 1M+ LOC)
 | Agent | Focus Area | Key Superpowers |
@@ -38,8 +43,6 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Compress this code/prompt using the Token Compression Engineer to save tokens while keeping exact output fidelity."*
 - *"Call the AI Code Doctor from my GitHub repo to audit our codebase for memory leaks and circular dependencies."*
 - *"Dispatch the Adversarial Security Sentinel to probe our payment and credit system for race conditions."*
-- *"Use Safe Repair Loop Breaker to fix this failing test without breaking any existing features or looping."*
-- *"Call the Mega-Codebase Architect to modularize our 80,000 LOC project into bounded domain packages."*
-- *"Call the Chaos Resilience Engineer to add circuit breakers and graceful degradation to our AI streaming API."*
