@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (19 World-Class Specialists)
+## The Specialist Fleet (20 World-Class Specialists)
+
+### 🎓 Academic Forensics, Pareto 80/20 & Context Discovery
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`pareto-exam-and-project-strategist`**](./agents/pareto-exam-and-project-strategist.md) | **Discovery Interview & Pareto 80/20 Forensics** | Proactively conducts a zero-guesswork context interview (University, Branch, Year, Subject, Hackathon Track), reverse-engineers official syllabus revisions against 5-year past papers, extracts the golden 20% high-yield concepts generating 80% marks, and delivers 100% verified model solutions, marking rubrics, and publication PDFs. |
 
 ### ☁️ Zero-Disk Cloud Shipping & Space Reclamation
 | Agent | Focus Area | Key Superpowers |
@@ -73,8 +78,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
-- *"Build this AI project: test it 100%, push it to a new GitHub repo with its PDFs, and clean up my local folder to save space."*
+- *"I have an exam coming up: ask me my university, branch, and semester, then reverse-engineer the last 5 years of papers with the 80/20 rule."*
+- *"Build this AI mini-project: test it 100%, push it to a new GitHub repo with its PDFs, and clean up my local folder to save space."*
 - *"Enhance this exam paper/website: preserve 100% of the questions/data, and proactively elevate it with top-notch features."*
 - *"Execute this build using parallel swarms to deliver the feature at maximum velocity."*
-- *"Design a publication-grade PDF report using the Premium Creative Director with bespoke editorial typography and zero AI clichés."*
-- *"Diagnose and repair this stuck pipeline using the self-recognition watchdog."*

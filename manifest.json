@@ -1,9 +1,16 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "3.7.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including zero-disk project shipping & GitHub vault archiving, autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
+  "version": "3.8.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, including proactive context discovery interview, Pareto 80/20 syllabus & 5-year exam paper reverse-engineering, zero-disk project shipping & GitHub vault archiving, autonomous self-recognition metacognitive watchdog, value-enhancement & zero-data-drift fidelity, hyper-velocity parallel swarms, anti-AI luxury creative direction, multi-agent task decomposition, token compression, large-scale systems, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "pareto-exam-and-project-strategist",
+      "name": "Pareto Exam & Project Strategist",
+      "path": "agents/pareto-exam-and-project-strategist.md",
+      "domain": "Proactive Context Discovery, 5-Year Exam Paper Reverse-Engineering, Syllabus Evolution Diffing, Pareto 80/20 High-Yield Prediction, 100% Model Solutions",
+      "triggers": ["exam", "syllabus", "question paper", "university", "past papers", "pareto", "80/20", "hackathon", "discovery interview", "study guide"]
+    },
     {
       "id": "zero-disk-project-shipper",
       "name": "Zero-Disk Project Shipper & Cloud Vault Manager",
