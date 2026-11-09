@@ -1,9 +1,44 @@
 {
   "name": "antigravity-specialist-agents",
-  "version": "2.0.0",
-  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, synthesizing premier frontier AI models.",
+  "version": "3.0.0",
+  "description": "On-demand cloud catalog of world-class domain specialist agents for Antigravity, supporting massive scale (50K - 1M+ LOC) projects, AI code repair, adversarial security, and multi-model synthesis.",
   "owner": "adityanimbalkar9699-max",
   "agents": [
+    {
+      "id": "ai-code-doctor",
+      "name": "AI Code Doctor",
+      "path": "agents/ai-code-doctor.md",
+      "domain": "Systems Health, AST Analysis, Memory Leaks, 50K - 1M+ LOC Triage",
+      "triggers": ["code doctor", "diagnose", "memory leak", "circular dependency", "code health", "large codebase"]
+    },
+    {
+      "id": "adversarial-security-sentinel",
+      "name": "Adversarial Security Sentinel",
+      "path": "agents/adversarial-security-sentinel.md",
+      "domain": "Red-Teaming, Penetration Testing, Zero-Day Probing, Auth Hardening",
+      "triggers": ["security audit", "red team", "pentest", "vulnerability", "exploit", "idor", "injection"]
+    },
+    {
+      "id": "safe-repair-loop-breaker",
+      "name": "Safe Repair & Loop Breaker",
+      "path": "agents/safe-repair-loop-breaker.md",
+      "domain": "Self-Healing, Test-Repair Cycles, Infinite Loop Prevention, Invariant Proofs",
+      "triggers": ["fix bug", "repair loop", "infinite loop", "test repair", "self healing"]
+    },
+    {
+      "id": "mega-codebase-architect",
+      "name": "Mega-Codebase Architect",
+      "path": "agents/mega-codebase-architect.md",
+      "domain": "50K - 1M+ LOC Architecture, Monorepos, Domain-Driven Design, Bounded Contexts",
+      "triggers": ["large codebase", "100k lines", "monorepo", "domain driven", "turborepo", "scale architecture"]
+    },
+    {
+      "id": "chaos-resilience-engineer",
+      "name": "Chaos & Resilience Engineer",
+      "path": "agents/chaos-resilience-engineer.md",
+      "domain": "Chaos Engineering, Circuit Breakers, Fault Tolerance, Graceful Degradation",
+      "triggers": ["chaos test", "circuit breaker", "resilience", "failover", "graceful degradation", "high traffic"]
+    },
     {
       "id": "omni-frontier-synthesizer",
       "name": "Omni-Frontier AI Synthesizer",
