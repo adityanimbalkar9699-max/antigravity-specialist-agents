@@ -11,7 +11,12 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (13 World-Class Specialists)
+## The Specialist Fleet (14 World-Class Specialists)
+
+### 🧩 Multi-Agent Decomposition & Orchestration
+| Agent | Focus Area | Key Superpowers |
+| :--- | :--- | :--- |
+| [**`multi-agent-task-decomposer`**](./agents/multi-agent-task-decomposer.md) | **Task Slicing & Wave Orchestration** | Slices large, complex systems into clean domain layers (Database, Backend, UI, Motion, Security), delegates each layer to specialized agents in synchronized execution waves, and synthesizes 100% working deliverables. |
 
 ### ⚡ Context, Compression & Token Optimization
 | Agent | Focus Area | Key Superpowers |
@@ -43,6 +48,6 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 ## On-Demand Invocation
 
 In Antigravity, simply prompt:
+- *"Decompose this large application into multi-agent execution waves to build the full system."*
 - *"Compress this code/prompt using the Token Compression Engineer to save tokens while keeping exact output fidelity."*
 - *"Call the AI Code Doctor from my GitHub repo to audit our codebase for memory leaks and circular dependencies."*
-- *"Dispatch the Adversarial Security Sentinel to probe our payment and credit system for race conditions."*
