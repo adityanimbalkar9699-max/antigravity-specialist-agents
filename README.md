@@ -11,7 +11,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (22 World-Class Specialists)
+## The Specialist Fleet (24 World-Class Specialists)
 
 ### 🔬 Empirical Research, Proof & Zero Hallucination
 | Agent | Focus Area | Key Superpowers |
@@ -52,6 +52,8 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 | Agent | Focus Area | Key Superpowers |
 | :--- | :--- | :--- |
 | [**`premium-creative-director`**](./agents/premium-creative-director.md) | **Anti-AI Luxury Aesthetic & Editorial Design** | Eradicates generic "AI-generated" tropes (cliché purple gradients, sterile centered cards). Enforces bespoke human-crafted elegance, editorial typography, optical tracking, tactile specular materials, and publication-grade PDF/print polish. |
+| [**`frontier-trend-surpassing-director`**](./agents/frontier-trend-surpassing-director.md) | **3D WebGL, Market Trends & Radical Wow-Factor** | Crosschecks latest Apple/Awwwards trends, mandates real 3D WebGL / Three.js assets and physical PBR shaders, video animatics, multi-layer atmospheres, and surpasses market benchmarks through radical creativity. |
+| [**`ui-ux-promax`**](./agents/ui-ux-promax.md) | **Luminous Showroom Lighting & Anti-Murkiness** | Eliminates oppressive pitch-black AI voids, mandates radiant architectural studio illumination (Apple Luminary Gallery standard), high-definition crystal clarity, and instant multi-environment studio switching (Daylight Showroom, Sunset Apex, Midnight Carbon). |
 
 ### 🧩 Multi-Agent Decomposition & Orchestration
 | Agent | Focus Area | Key Superpowers |
