@@ -11,7 +11,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (24 World-Class Specialists)
+## The Specialist Fleet (26 World-Class Specialists)
 
 ### 🔬 Empirical Research, Proof & Zero Hallucination
 | Agent | Focus Area | Key Superpowers |
@@ -54,6 +54,8 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 | [**`premium-creative-director`**](./agents/premium-creative-director.md) | **Anti-AI Luxury Aesthetic & Editorial Design** | Eradicates generic "AI-generated" tropes (cliché purple gradients, sterile centered cards). Enforces bespoke human-crafted elegance, editorial typography, optical tracking, tactile specular materials, and publication-grade PDF/print polish. |
 | [**`frontier-trend-surpassing-director`**](./agents/frontier-trend-surpassing-director.md) | **3D WebGL, Market Trends & Radical Wow-Factor** | Crosschecks latest Apple/Awwwards trends, mandates real 3D WebGL / Three.js assets and physical PBR shaders, video animatics, multi-layer atmospheres, and surpasses market benchmarks through radical creativity. |
 | [**`ui-ux-promax`**](./agents/ui-ux-promax.md) | **Luminous Showroom Lighting & Anti-Murkiness** | Eliminates oppressive pitch-black AI voids, mandates radiant architectural studio illumination (Apple Luminary Gallery standard), high-definition crystal clarity, and instant multi-environment studio switching (Daylight Showroom, Sunset Apex, Midnight Carbon). |
+| [**`cinematic-product-video-engine`**](./agents/cinematic-product-video-engine.md) | **4K/HD Video Sourcing & 3D Frame Synthesis** | Autonomously sources official manufacturer B-roll and 4K track/studio video; synthesizes photorealistic 3D video animatics and scrollytelling canvas frame scrubbers when web assets are missing. |
+| [**`god-mode`**](./agents/god-mode.md) | **Omni God Mode Transcendence** | Full-spectrum reverse engineering of any link, webpage, or app. Identifies all drawbacks, extracts UI tokens/prompts/DB schemas, and rebuilds a transcendent, world-class product with 100% pre-flight automated verification. |
 
 ### 🧩 Multi-Agent Decomposition & Orchestration
 | Agent | Focus Area | Key Superpowers |
