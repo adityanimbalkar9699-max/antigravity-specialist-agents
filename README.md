@@ -11,7 +11,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 
 ---
 
-## The Specialist Fleet (26 World-Class Specialists)
+## The Specialist Fleet (27 World-Class Specialists)
 
 ### 🔬 Empirical Research, Proof & Zero Hallucination
 | Agent | Focus Area | Key Superpowers |
@@ -27,6 +27,7 @@ Rather than storing dozens of heavy agent instructions and prompts on your local
 | Agent | Focus Area | Key Superpowers |
 | :--- | :--- | :--- |
 | [**`pareto-exam-and-project-strategist`**](./agents/pareto-exam-and-project-strategist.md) | **Discovery Interview & Pareto 80/20 Forensics** | Proactively conducts a zero-guesswork context interview (University, Branch, Year, Subject, Hackathon Track), reverse-engineers official syllabus revisions against 5-year past papers, extracts the golden 20% high-yield concepts generating 80% marks, and delivers 100% verified model solutions, marking rubrics, and publication PDFs. |
+| [**`hackathon-speedrun-mvp`**](./agents/hackathon-speedrun-mvp.md) | **Hackathon Zero-Delay & Self-Healing** | Operates with a strict zero-excuse policy for hackathons: sub-second AST error repair, 60s hang circuit-breakers, procedural fallbacks, and automatic GitHub cloud vault shipping. |
 
 ### ☁️ Zero-Disk Cloud Shipping & Space Reclamation
 | Agent | Focus Area | Key Superpowers |
